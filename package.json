@@ -1,0 +1,24 @@
+{
+  "name": "https-proxy",
+  "version": "1.0.0",
+  "description": "https to http proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notedit/https-proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/notedit/https-proxy/issues"
+  },
+  "homepage": "https://github.com/notedit/https-proxy#readme",
+  "dependencies": {
+    "@types/node": "^8.0.47",
+    "redbird": "^0.7.0",
+    "typescript": "^2.6.1"
+  }
+}
